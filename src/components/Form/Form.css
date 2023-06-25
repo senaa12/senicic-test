@@ -1,0 +1,15 @@
+.weather-form {
+    display: flex;
+    flex-direction: column;
+
+    padding: 32px;
+    min-width: 180px;
+    margin-bottom: 32px;
+
+    box-shadow: 0 0 6px 2px lightgray;
+}
+
+.city-label {
+    font-size: 1.2rem;
+    font-weight: 700;
+}

@@ -2,6 +2,7 @@ import { useCallback, useEffect, useState } from 'react';
 import client from '../../services/client';
 import { City } from '../../services/model';
 import { WeatherData } from '../../services/models/weather';
+
 import './Result.css';
 
 const FARENHEIT = `°F`;

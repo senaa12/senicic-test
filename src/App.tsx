@@ -1,10 +1,11 @@
 import { useCallback, useState } from 'react'
-import './App.css'
 import client from './services/client'
 import Header from './components/Header/Header'
 import Form from './components/Form/From';
 import Result from './components/Result/Result';
 import { City } from './services/model'
+
+import './App.css'
 
 function App() {
   const [ loading, setLoading ] = useState(false);

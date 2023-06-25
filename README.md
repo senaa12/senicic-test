@@ -9,7 +9,7 @@ This repository contains the solution for a simple task from Upwork. It is a Rea
 1. Clone this repository to your local machine or download the ZIP file.
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/senaa12/senicic-test.git
 ```
 
 1. Navigate to the project directory.
